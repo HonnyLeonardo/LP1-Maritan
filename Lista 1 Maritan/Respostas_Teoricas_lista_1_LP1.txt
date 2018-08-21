@@ -1,0 +1,16 @@
+1) Classe: É uma estrutura abstrata que representa de algo da realidade,
+ possui atributos e métodos para definir o comportamento de seus objetos.
+Objeto: É uma instância de uma classe.
+
+2)Um construtor serve para inicializar os atributos de uma classe. 
+Usa-se quando se vai instanciar um objeto, podendo haver um padrão estabelecido
+ou com a passagem e parâmetros pelo usuário.
+
+3) New serve para criar um objeto dinamicamente na memória do mesmo tamanho
+de bytes da classe.
+
+4) Serve para restringir o acesso a certos atributos e métodos da classe, 
+oculta detalhes do usuário da classe, minimiza os erros de progração, facilita
+a atualização do código, também determina o nível de acesso dos elementos da classe.
+Como exemplo, você não precisa saber como é o funcionamento interno de um micro-ondas,
+só precisa saber ligar, abrir, setar o tempo e desligar.
